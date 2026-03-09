@@ -90,6 +90,8 @@ The collection includes:
 
 - Test Cases: [[Test Cases]](https://docs.google.com/spreadsheets/d/16Jp0eDzK6djGbwgpRYRokJV004H8vTod/edit?usp=sharing&ouid=115080025741069195972&rtpof=true&sd=true)
 
+- Video Recoding : [[Recording]](https://drive.google.com/drive/folders/1WFvyKI07cMvgiMVC-ON7ROOJOwvJWNnz?usp=sharing)
+
 ## HTML Report:
 
 <img width="894" height="901" alt="Screenshot 2026-03-08 144511" src="https://github.com/user-attachments/assets/eee0cd7c-6b9c-4d74-a222-2226f259daf0" />
