@@ -84,8 +84,6 @@ The collection includes:
 
 - give command ```npm i newman```
 
-- Add env file to the project root
-
 - Finally give command to execute ```npm test```
 
 - Documentation: [[Postman documentation] ](https://documenter.getpostman.com/view/38007041/2sBXcLfxJZ)
